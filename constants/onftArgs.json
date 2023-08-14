@@ -10,5 +10,13 @@
   "goerli": {
     "startMintId": 21,
     "endMintId": 30
+  },
+  "mumbai": {
+    "startMintId": 1,
+    "endMintId": 20
+  },
+  "sepolia": {
+    "startMintId": 1,
+    "endMintId": 10
   }
 }
